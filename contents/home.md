@@ -59,6 +59,11 @@
 * Python/Pytorch学习意愿
 * 每周≥10小时投入
 
+##### 联系方式
+* 主邮箱：cslqm@henu.edu.cn
+* 备选邮箱：lqmmring@163.com
+* 回复时效：3个工作日内必回复，未收到请重发备用邮箱
+
 #### Admission Information
 ##### Graduate Students
 * Majors in artificial intelligence, computer science, mathematics, or life sciences-related disciplines; familiar with common programming languages.
