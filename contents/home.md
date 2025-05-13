@@ -1,14 +1,18 @@
 
 刘翘铭，博士，河南大学“百人计划”特聘研究员。2022年于哈尔滨工业大学计算学部、[生物大数据教育部重点实验室](http://bioinformatics.hit.edu.cn/index.html)获得计算机应用计算博士学位，师从[汪国华](https://homepage.hit.edu.cn/wangguohua)教授；先后以博士后、副研究员身份任职于哈尔滨工业大学郑州研究院，合作导师[王亚东](https://homepage.hit.edu.cn/wangyadong)教授。2025年3月任职于河南大学人工智能学院。主持（完成）国家自然科学基金1项，博士后面上项目1项，河南省青年基金1项，并入选2023年度国家博士后资助计划。以第一或通讯作者在Briefings in Bioinformatics、IEEE JHBI、IEEE TCBB、BMC biology、IEEE BIBM等生物信息学权威期刊或会议发表论文多篇，详情请见[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=qksAJxwAAAAJ)。
 
----
-
 Liu Qiaoming, Ph.D., is a Distinguished Research Fellow under the "Hundred Talent Program" at Henan University. He received his Ph.D. in Computer Application Technology from the School of Computer Science and Technology, Key Laboratory of Bio-Big Data (Ministry of Education), Harbin Institute of Technology (HIT) in 2022, supervised by Prof. [Wang Guohua](https://scholar.google.com/citations?user=VZ23VIwAAAAJ&hl=zh-CN). He subsequently worked as a postdoctoral researcher and associate researcher at the Zhengzhou Research Institute of HIT, co-supervised by Prof. [Wang Yadong](https://scholar.google.com/citations?hl=zh-CN&user=uqKkZiQAAAAJ), before joining the School of Artificial Intelligence at Henan University as a Distinguished Research Fellow in March 2025.
 
-#### 联系方式  
-<code>cslqm@henu.edu.cn</code>  
-<code>lqmmring@163.com</code>（备选,optional）
----
+[//]: # (#### 联系方式  )
+
+[//]: # ()
+[//]: # (<code>cslqm@henu.edu.cn</code>  )
+
+[//]: # ()
+[//]: # (<code>lqmmring@163.com</code>（备选,optional）)
+
+[//]: # ()
+[//]: # (---)
 #### 教育与工作经历
 * 2011年9月—2015年7月  &ensp;	郑州大学信息工程学院 &ensp;工学学士 
 * 2015年9月—2018年7月  &ensp;	长春工业大学计算机科学与工程学院 &ensp;工学硕士 
