@@ -65,6 +65,7 @@
 * 回复时效：3个工作日内必回复，未收到请重发备用邮箱
 
 #### Admission Information
+ &ensp;	 &ensp;	Welcome students interested in [bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics) and [deep learning](https://en.wikipedia.org/wiki/Deep_learning) to join my research group. If you wish to apply to be my graduate student, please carefully review my admission information.
 ##### Graduate Students
 * Majors in artificial intelligence, computer science, mathematics, or life sciences-related disciplines; familiar with common programming languages.
 * Demonstrate genuine passion for research and academia, with motivation, diligence, and a solid work ethic.
@@ -73,3 +74,7 @@
 * Basic programming skills (any language).
 * Willingness to learn Python/PyTorch.
 * Able to commit at least 10 hours per week to research activities.
+##### Contact Information
+* Primary Email: cslqm@henu.edu.cn
+* Alternative Email: lqmmring@163.com
+* Response Time: Guaranteed reply within 3 working days; if no response is received, please resend to the alternative email.
