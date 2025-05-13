@@ -46,7 +46,7 @@ Liu Qiaoming, Ph.D., is a Distinguished Research Fellow under the "Hundred Talen
 ---
 
 #### 招生说明
-欢迎对生物信息学和深度图学习感兴趣的同学加入我的课题组，如果你想报考我的研究生，请仔细查看我的招生说明。
+欢迎对[生物信息学](https://baike.baidu.com/item/%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6/207195)和[深度学习](https://baike.baidu.com/item/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/3729729)感兴趣的同学加入我的课题组，如果你想报考我的研究生，请仔细查看我的招生说明。
 ##### 研究生
 * 人工智能、计算机、数学、生命相关专业，熟悉常用编程语言。
 * 对科研和学术有一定的追求，有进取心，踏实肯干。
