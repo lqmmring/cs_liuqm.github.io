@@ -1,21 +1,19 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
-
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
-
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
-
+#### 教育与工作经历
+* 2011年9月—2015年7月  &ensp;	郑州大学信息工程学院 &ensp;工学学士 
+* 2015年9月—2018年7月  &ensp;	长春工业大学计算机科学与工程学院 &ensp;工学硕士 
+* 2018年9月—2022年12月 &ensp;	哈尔滨工业大学计算学部 &ensp;工学博士 
+* 2018年4月—2018年9月	  &ensp;  中山大学眼科中心、精准医学科学中心 &ensp;访问学者 
+* 2023年2月—2025年2月		&ensp;	哈尔滨工业大学医学与健康学院 &ensp;博士后 
+* 2022年12月—2024年9月	&ensp;哈尔滨工业大学郑州研究院 &ensp;助理研究员 
+* 2024年10月—2025年2月	&ensp;哈尔滨工业大学郑州研究院 &ensp;副研究员 
+* 2025年3月-至今			&ensp;河南大学人工智能学院 &ensp;“百人计划”特聘研究员 
 ---
-
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
-
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
-
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+#### Education and experience
+* September 2011–July 2015 &ensp;	School of Information Engineering, Zhengzhou University &ensp;	Bachelor of Engineering
+* September 2015–July 2018 &ensp;	School of Computer Science and Engineering, Changchun University of Technology &ensp;	Master of Engineering
+* September 2018–December 2022 &ensp;	School of Computer Science and Technology, Harbin Institute of Technology (HIT) &ensp;	Doctor of Engineering
+* April 2018–September 2018 &ensp;	Zhongshan Ophthalmic Center & Precision Medicine Science Center, Sun Yat-sen University &ensp;	Visiting Scholar
+* February 2023–February 2025 &ensp;	School of Medicine and Health, Harbin Institute of Technology (HIT) &ensp;	Postdoctoral Researcher
+* December 2022–September 2024 &ensp;	Zhengzhou Research Institute, Harbin Institute of Technology (HIT) &ensp;	Assistant Researcher
+* October 2024–February 2025 &ensp;	Zhengzhou Research Institute, Harbin Institute of Technology (HIT) &ensp;	Associate Researcher
+* March 2025–present &ensp;	School of Artificial Intelligence, Henan University &ensp;	Distinguished Research Fellow (Hundred Talent Program)
