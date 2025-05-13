@@ -1,6 +1,5 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+刘翘铭，博士，主要研究方向为：生物大数据分析与管理；单细胞数据分析算法与系统；深度聚类分析；深度表示学习。主持国家自然基金、国家博士后科学基金、河南省自然科学基金等项目，并入选2023年度国家博士后资助计划。以第一或通讯作者在Briefings in Bioinformatics、IEEE JHBI、IEEE TCBB、IEEE BIBM等生物信息学权威期刊或会议发表论文15篇。
 
 #### Email  
 <code>XX@XX.XX</code>  
