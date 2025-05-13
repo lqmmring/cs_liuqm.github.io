@@ -1,6 +1,7 @@
 
-刘翘铭，博士，河南大学“百人计划”特聘研究员。2022年于哈尔滨工业大学计算学部、[生物大数据教育部重点实验室](http://bioinformatics.hit.edu.cn/index.html)获得计算机应用计算博士学位，师从[汪国华](https://homepage.hit.edu.cn/wangguohua)教授；先后以博士后、副研究员身份任职于哈尔滨工业大学郑州研究院，合作导师[王亚东](https://homepage.hit.edu.cn/wangyadong)教授。2025年3月任职于河南大学人工智能学院。主持（完成）国家自然科学基金1项，博士后面上项目1项，河南省青年基金1项，并入选2023年度国家博士后资助计划。以第一或通讯作者在Briefings in Bioinformatics、IEEE JHBI、IEEE TCBB、BMC biology、IEEE BIBM等生物信息学权威期刊或会议发表论文多篇，详情请见[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=qksAJxwAAAAJ)。
+刘翘铭，博士，主要研究方向为：生物大数据分析与管理；单细胞数据分析算法与系统；深度聚类分析；深度表示学习。主持国家自然基金、国家博士后科学基金、河南省自然科学基金等项目，并入选2023年度国家博士后资助计划。以第一或通讯作者在Briefings in Bioinformatics、IEEE JHBI、IEEE TCBB、IEEE BIBM等生物信息学权威期刊或会议发表论文15篇。
 
+<<<<<<< HEAD
 ---
 
 Liu Qiaoming, Ph.D., is a Distinguished Research Fellow under the "Hundred Talent Program" at Henan University. He received his Ph.D. in Computer Application Technology from the School of Computer Science and Technology, Key Laboratory of Bio-Big Data (Ministry of Education), Harbin Institute of Technology (HIT) in 2022, supervised by Prof. [Wang Guohua](https://scholar.google.com/citations?user=VZ23VIwAAAAJ&hl=zh-CN). He subsequently worked as a postdoctoral researcher and associate researcher at the Zhengzhou Research Institute of HIT, co-supervised by Prof. [Wang Yadong](https://scholar.google.com/citations?hl=zh-CN&user=uqKkZiQAAAAJ), before joining the School of Artificial Intelligence at Henan University as a Distinguished Research Fellow in March 2025.
@@ -28,16 +29,30 @@ February 2023––February 2025 &ensp; School of Medicine and Health, Harbin In
 December 2022–September 2024 &ensp; Zhengzhou Research Institute, Harbin Institute of Technology (HIT) &ensp; Assistant Researcher
 October 2024–February 2025 &ensp; Zhengzhou Research Institute, Harbin Institute of Technology (HIT) &ensp; Associate Researcher
 March 2025–present &ensp; School of Artificial Intelligence, Henan University &ensp; Distinguished Research Fellow (Hundred Talent Program)
+=======
+#### Email  
+<code>XX@XX.XX</code>  
+<code>XX@XX.XX</code>
 
-#### 研究方向 
-* 生物大数据分析与管理
-* 单细胞数据分析算法与系统 
-* 聚类分析
-* 深度表示学习
+#### Education  
+**XX University**, Master of XX (XX – XX)  
+• GPA: XX/XX  
+>>>>>>> parent of 33ec597 (Update home.md)
 
+**XX University**, Exchange student <br>  
+• As a XX, represented my college as an outstanding student for a XX exchange program.  
+
+<<<<<<< HEAD
 ---
 * Bio-Big Data Analysis and Management
 * Single-Cell Data Analysis Algorithms and Systems
 * Clustering Analysis
 * Deep Representation Learning
 
+=======
+**XX University**, Honours Bachelor of XX (XX – XX)  
+• GPA: XX/XX (top XX%)  
+
+#### Research Interests  
+XX, XX, XX, XX.
+>>>>>>> parent of 33ec597 (Update home.md)
