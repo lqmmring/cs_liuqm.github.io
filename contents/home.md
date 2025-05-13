@@ -1,7 +1,7 @@
 
-刘翘铭，博士，河南大学“百人计划”特聘研究员。2022年于哈尔滨工业大学计算学部、[生物大数据教育部重点实验室](http://bioinformatics.hit.edu.cn/index.html)获得计算机应用计算博士学位，导师：[汪国华](https://homepage.hit.edu.cn/wangguohua)教授；先后以博士后、副研究员身份任职于哈尔滨工业大学郑州研究院，合作导师：[王亚东](https://homepage.hit.edu.cn/wangyadong)教授。2025年3月任职于河南大学人工智能学院。主持（完成）国家自然科学基金1项，博士后面上项目1项，河南省青年基金1项，并入选2023年度国家博士后资助计划。以第一或通讯作者在Briefings in Bioinformatics、IEEE JHBI、IEEE TCBB、BMC biology、IEEE BIBM等生物信息学权威期刊或会议发表论文多篇，详情请见[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=qksAJxwAAAAJ)。
+ &ensp;	 &ensp;	刘翘铭，博士，河南大学“百人计划”特聘研究员。2022年于哈尔滨工业大学计算学部、[生物大数据教育部重点实验室](http://bioinformatics.hit.edu.cn/index.html)获得计算机应用计算博士学位，导师：[汪国华](https://homepage.hit.edu.cn/wangguohua)教授；先后以博士后、副研究员身份任职于哈尔滨工业大学郑州研究院，合作导师：[王亚东](https://homepage.hit.edu.cn/wangyadong)教授。2025年3月任职于河南大学人工智能学院。主持（完成）国家自然科学基金1项，博士后面上项目1项，河南省青年基金1项，并入选2023年度国家博士后资助计划。以第一或通讯作者在Briefings in Bioinformatics、IEEE JHBI、IEEE TCBB、BMC biology、IEEE BIBM等生物信息学权威期刊或会议发表论文多篇，详情请见[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=qksAJxwAAAAJ)。
 
-Liu Qiaoming, Ph.D., is a Distinguished Research Fellow under the "Hundred Talent Program" at Henan University. He received his Ph.D. in Computer Application Technology from the School of Computer Science and Technology, Key Laboratory of Bio-Big Data (Ministry of Education), Harbin Institute of Technology (HIT) in 2022, supervised by Prof. [Wang Guohua](https://scholar.google.com/citations?user=VZ23VIwAAAAJ&hl=zh-CN). He subsequently worked as a postdoctoral researcher and associate researcher at the Zhengzhou Research Institute of HIT, co-supervised by Prof. [Wang Yadong](https://scholar.google.com/citations?hl=zh-CN&user=uqKkZiQAAAAJ), before joining the School of Artificial Intelligence at Henan University as a Distinguished Research Fellow in March 2025.
+ &ensp;	 &ensp;	Liu Qiaoming, Ph.D., is a Distinguished Research Fellow under the "Hundred Talent Program" at Henan University. He received his Ph.D. in Computer Application Technology from the School of Computer Science and Technology, Key Laboratory of Bio-Big Data (Ministry of Education), Harbin Institute of Technology (HIT) in 2022, supervised by Prof. [Wang Guohua](https://scholar.google.com/citations?user=VZ23VIwAAAAJ&hl=zh-CN). He subsequently worked as a postdoctoral researcher and associate researcher at the Zhengzhou Research Institute of HIT, co-supervised by Prof. [Wang Yadong](https://scholar.google.com/citations?hl=zh-CN&user=uqKkZiQAAAAJ), before joining the School of Artificial Intelligence at Henan University as a Distinguished Research Fellow in March 2025.
 
 ---
 [//]: # (#### 联系方式  )
@@ -37,6 +37,8 @@ Liu Qiaoming, Ph.D., is a Distinguished Research Fellow under the "Hundred Talen
 * 中国计算机学会（CCF）生物信息学专委会 &ensp;	委员
 * 中国计算机学会（CCF）Bio 3news委员会 &ensp;	执行委员
 * 国际生物信息学和生物医学会议（BIBM） &ensp;	程序委员
+* Cell Proliferation &ensp;	青年编委 
+* 《Bioinformatics》、《Briefings in Bioinformatics》、《Frontiers in Genetics》、《PLOS Computational Biology》等生物信息学期刊审稿人。
 
 #### Academic Services
 * Reviewer for General and Young Scientists Fund Projects, National Natural Science Foundation of China (NSFC)
@@ -46,7 +48,7 @@ Liu Qiaoming, Ph.D., is a Distinguished Research Fellow under the "Hundred Talen
 ---
 
 #### 招生说明
-欢迎对[生物信息学](https://baike.baidu.com/item/%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6/207195)和[深度学习](https://baike.baidu.com/item/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/3729729)感兴趣的同学加入我的课题组，如果你想报考我的研究生，请仔细查看我的招生说明。
+ &ensp;	 &ensp;	欢迎对[生物信息学](https://baike.baidu.com/item/%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6/207195)和[深度学习](https://baike.baidu.com/item/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/3729729)感兴趣的同学加入我的课题组，如果你想报考我的研究生，请仔细查看我的招生说明。
 ##### 研究生
 * 人工智能、计算机、数学、生命相关专业，熟悉常用编程语言。
 * 对科研和学术有一定的追求，有进取心，踏实肯干。
