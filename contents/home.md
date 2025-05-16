@@ -15,8 +15,8 @@
 [//]: # ()
 [//]: # (---)
 #### 学术新闻
-- 05/13, 2025: 1篇合作作者论文《annATAC: automatic cell type annotation for scATAC-seq data based on language model》被BMC biology顺利接收。
-- 05/16, 2025: 1篇合作作者论文《scATD: A High-throughput and Interpretable Framework for single-cell Cancer DrugResistance Prediction and Biomarker Identification》被Briefings in Bioinformatics顺利接收。
+- 05/13, 2025: 1篇合作论文《annATAC: automatic cell type annotation for scATAC-seq data based on language model》被BMC biology顺利接收。
+- 05/16, 2025: 1篇合作论文《scATD: A High-throughput and Interpretable Framework for single-cell Cancer DrugResistance Prediction and Biomarker Identification》被Briefings in Bioinformatics顺利接收。
 #### Academic News
 - 05/13, 2025: One co-authored paper entitled annATAC: automatic cell type annotation for scATAC-seq data based on language model has been successfully accepted by BMC Biology.
 - 05/16, 2025: One co-authored paper entitled scATD: A High-throughput and Interpretable Framework for Single-cell Cancer Drug Resistance Prediction and Biomarker Identification has been successfully accepted by Briefings in Bioinformatics.
